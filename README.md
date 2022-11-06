@@ -1,2 +1,2 @@
 # JS-Projects
-Contain my Javascript Projects which are good
+This repo contains the project which I build and practice with vanilla JavaScript
